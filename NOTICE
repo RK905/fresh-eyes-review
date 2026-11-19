@@ -1,0 +1,8 @@
+fresh-eyes-review
+
+This project contains a modified version of skills/egm-review-loop/SKILL.md
+from https://github.com/google/elephant-goldfish-model, licensed under the
+Apache License, Version 2.0.
+
+Changes: renamed, condensed, and made self-contained (no dependency on the
+original project's agents, standards, synthesizer, or resolve workflow).
